@@ -14,3 +14,9 @@ C:\Users\Nick\Desktop\ElevenFiftyProjects\Red_Badge\11NRedo\ElevenNote\ElevenNot
 C:\Users\Nick\Desktop\ElevenFiftyProjects\Red_Badge\11NRedo\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Nick\Desktop\ElevenFiftyProjects\Red_Badge\11NRedo\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Nick\Desktop\ElevenFiftyProjects\Red_Badge\11NRedo\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Red_Badge\11NRedo\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Red_Badge\11NRedo\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Red_Badge\11NRedo\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Red_Badge\11NRedo\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Red_Badge\11NRedo\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Nick\Desktop\ElevenFiftyProjects\Red_Badge\11NRedo\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
